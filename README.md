@@ -23,3 +23,4 @@ Back in the Terminal, type: python entity_extraction.py and watch the output.
 ### Evaluation for JOUR389W
 
 PUT YOUR EVALUATION HERE
+It did well pulling out all the information that i needed. I took out orgaztion and replaced it with states.  i saw in the story that it named different states where the protest were happening. it did well with noting the different states that the protests were happening at. I was impress that it was able to idenifity Hamilton hall since it was specific place. this was impressvie becuase AI is not known to be good with specific geography. this would be useful for double checking that all of needed people named correctly. it would also be useful to make sure locations were spelled right and the right places were named. 

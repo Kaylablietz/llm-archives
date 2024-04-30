@@ -20,7 +20,7 @@ chat_completion = client.chat.completions.create(
     messages=[
         {
             "role": "user",
-            "content": f"Identify the people, places, and organizations in the following text: {story_content}.",
+            "content": f"Identify the people, places, and states in the following text: {story_content}.",
         }
     ],
     model="llama3-70b-8192",
